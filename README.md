@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igbokwewinnie
+- 👋 Hi, I’m Igbokwe Winifred
 - 👀 I’m interested in python, machine learning and artificial intteligence.
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on any projects that can help boost my machine learning skills 
