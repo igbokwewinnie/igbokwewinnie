@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igbokwewinnie" alt="igbokwewinnie" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omgwinnie__" target="blank"><img src="https://img.shields.io/twitter/follow/omgwinnie__?logo=twitter&style=for-the-badge" alt="omgwinnie__" /></a> </p>
 
 - 👯 I’m looking to collaborate on ** any projects that can help boost my machine learning and deep learning skills.**
 
