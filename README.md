@@ -1,35 +1,44 @@
-<h1 align="center">Hi 👋, I'm Igbokwe Winifred</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h1 align="center">Hi 👋, I'm Winifred Igbokwe</h1>
+<h3 align="center">Machine Learning & AI Engineer | Building Practical AI Products & ML Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igbokwewinnie" alt="igbokwewinnie" /></a> </p>
+## About Me
+I’m a passionate **Machine Learning & AI Engineer** with hands-on experience building end-to-end ML systems, AI agents, and RAG-powered pipelines. I focus on turning data into practical insights and AI features that create real-world impact.  
+
+## What I'm Working On
+- Building **AI-powered applications and ML models** for sports, gaming, and productivity tools.  
+- Developing **retrieval-based AI agents** and **data-driven insights pipelines**.  
+- Experimenting with **LLMs, prompt engineering, and practical AI solutions**.
 
 
-- 👯 I’m looking to collaborate on **any projects that can help boost my machine learning and deep learning skills.**
+## 🚀 Projects I've Worked On
 
-- 🌱 I have a passion of **integrating machine learning in the field of sports and gaming**
+### 1. **Web3Bridge AI Agent**
+- Built a **RAG-powered AI agent** to answer questions about Web3Bridge cohorts.
+- Integrated **GroqLLMs** for real-time answers with citations.
+- Built a **Streamlit interface** for interactive learning.
+- [View Project →](https://github.com/igbokwewinnie/Web3Bridge-AI-Agent)
 
-- 💬 I’m interested in **python, machine learning, computer vision and artificial intelligence.**
+### 2. **Song Popularity Prediction**
+- Developed a **FastAPI + Docker microservice** for song popularity prediction.
+- Built an **XGBoost regression model** with preprocessing and cloud deployment.
+- Implemented full **ML pipeline** from data cleaning to model serving.
+- [View Project →](https://github.com/igbokwewinnie/Song-Popularity-Prediction)
+ 
 
-- 📫 How to reach me **Igbokwewinnie@gmail.com**
-
-- ⚡ Fun fact **I love playing video games, skating and watching football. Bonus tip, I can be funny when I want to.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/igbokwe-winifred-754136245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/winifred-igbokwe-754136245" height="30" width="40" /></a>
+## Skills & Tools
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://www.sql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igbokwewinnie&show_icons=true&locale=en&layout=compact" alt="igbokwewinnie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igbokwewinnie&show_icons=true&locale=en" alt="igbokwewinnie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igbokwewinnie&" alt="igbokwewinnie" /></p>
-
-
-<!---
-igbokwewinnie/igbokwewinnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect with Me
+<p>
+  <a href="mailto:igbokwewinnie@gmail.com"><img src="https://img.shields.io/badge/Email-igbokwewinnie@gmail.com-blue?style=flat-square" alt="Email"></a>
+  <a href="https://linkedin.com/in/winifred-igbokwe-754136245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Winifred%20Igbokwe-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+</p>
